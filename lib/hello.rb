@@ -6,7 +6,7 @@ i = 0
     array1 << yield(array[i])
     i += 1
   end
-  array1
+  array
   
 end
 
