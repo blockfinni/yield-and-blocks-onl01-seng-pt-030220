@@ -8,9 +8,9 @@ def hello_t(array)
     i += 1
   end
   array
-else
+  else
   "No blocks"
-  
+  end
   
   
   
